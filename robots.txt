@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /$
+Disallow: /*
+sitemap:https://pkvgames.gov.de-rse.org/sitemap.xml
